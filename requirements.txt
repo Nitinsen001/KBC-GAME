@@ -1,12 +1,2 @@
-streamlit
-streamlit-lottie
-pandas
-numpy
-requests
-io
-re
-time
-random
-json
-hashlib
-streamlit.components.v1
+streamlit>=1.39.0
+SpeechRecognition>=3.10.0
