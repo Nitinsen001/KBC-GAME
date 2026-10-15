@@ -1,0 +1,12 @@
+streamlit
+streamlit-lottie
+pandas
+numpy
+requests
+io
+re
+time
+random
+json
+hashlib
+streamlit.components.v1
